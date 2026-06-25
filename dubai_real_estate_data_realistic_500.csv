@@ -1,0 +1,501 @@
+customer_id,customer_name,customer_age,customer_gender,nationality,budget_aed,area,property_type,bedrooms,property_value_aed,sale_amount_aed,lead_source,agent_name,sale_status,purchase_date
+1,Cindy Gilbert,36,Female,Indian,4483851,Dubai Hills,Townhouse,6,2540224,2515044,Referral,Gabriel Rivera DDS,Sold,2026-02-11
+2,Bryan Frank,49,Male,British,2256340,Dubai Marina,Penthouse,6,5997827,681414,Instagram,Heather Fields,Sold,2026-04-24
+3,Jody Richardson,22,Female,Saudi,2530822,Dubai Marina,Penthouse,1,489133,3582005,Google,Michael Ford,Sold,2025-11-17
+4,Emily Horton,30,Female,Emirati,2744426,Downtown Dubai,Apartment,6,5411488,2152589,Referral,Marcus Walker,Sold,2025-12-11
+5,Bethany Williams,49,Male,British,3055467,Palm Jumeirah,Apartment,2,4878231,1610651,Google,Alyssa Hall,Cancelled,2025-01-12
+6,John Hamilton,27,Male,Indian,895326,Business Bay,Villa,2,4806362,1067183,Google,Dale Salas,Sold,2024-09-16
+7,Cameron Fisher,43,Female,Pakistani,495041,Jumeirah,Villa,2,1648222,1463849,Referral,William Brown,Cancelled,2025-03-14
+8,Richard Little,34,Male,Russian,3668405,Downtown Dubai,Apartment,2,2347378,3556868,Referral,Lynn Petty,Sold,2026-05-08
+9,Ms. Kendra Oneill,52,Female,Russian,4972490,Palm Jumeirah,Villa,3,896556,3857467,Instagram,Bradley Wise,Sold,2025-06-22
+10,David Hubbard,59,Female,Saudi,4648450,Dubai Marina,Townhouse,2,5069191,2490779,Website,Jacob Bentley,Sold,2025-06-05
+11,Chad Meyers,25,Female,Emirati,3970088,Palm Jumeirah,Penthouse,6,4735138,3355582,Instagram,Amanda Evans,Cancelled,2024-08-07
+12,David Landry,38,Male,Chinese,3236036,Dubai Hills,Townhouse,6,2347280,1396762,Facebook,Laura Taylor,Sold,2024-07-19
+13,Kelsey Levy,54,Female,Saudi,376518,Downtown Dubai,Townhouse,5,5950019,4753082,Website,Jessica Armstrong,Sold,2024-07-08
+14,Christopher Butler,27,Female,Chinese,4229972,Dubai Hills,Apartment,6,5229091,3699301,Instagram,Jeanette Craig,Sold,2025-10-17
+15,Alison Smith,46,Male,Egyptian,2654809,Palm Jumeirah,Townhouse,2,1556144,4474143,Referral,Mr. Matthew Blair MD,Sold,2026-06-23
+16,Catherine Owens,46,Male,Russian,703800,Dubai Hills,Penthouse,4,4901251,4595613,Referral,Austin Hunter,Sold,2024-12-04
+17,Marcus Powell,33,Male,British,4746401,Jumeirah,Penthouse,4,1819728,2144684,Referral,Frederick Jackson,Pending,2025-05-28
+18,David Kline,39,Male,Egyptian,1887345,Palm Jumeirah,Penthouse,6,5299116,1052373,Instagram,Alexandra Galvan,Cancelled,2025-05-19
+19,Suzanne Clark,64,Male,Emirati,3180461,Palm Jumeirah,Penthouse,5,4574736,1259102,Referral,Cody Taylor,Sold,2024-10-23
+20,Matthew Mason,51,Male,Emirati,1971099,Jumeirah,Apartment,6,5893386,1258716,Facebook,Henry Matthews,Sold,2024-09-18
+21,Andre Gonzalez,33,Male,Russian,2478713,Jumeirah,Apartment,5,3163618,761088,Instagram,Kyle Evans,Sold,2024-10-20
+22,Nicole Gardner,59,Male,Egyptian,4219009,Downtown Dubai,Apartment,3,2320121,4033282,Facebook,Elizabeth Reed,Pending,2026-05-03
+23,Jerry Thompson,63,Male,Russian,985071,Downtown Dubai,Apartment,1,377958,1501084,Instagram,Marcia Cooper,Sold,2025-10-23
+24,John Cortez,24,Female,Chinese,1663083,Business Bay,Penthouse,2,5789618,1688263,Referral,Mackenzie Young,Cancelled,2026-03-08
+25,Carrie Sullivan,42,Male,Saudi,1941477,Jumeirah,Townhouse,2,3490871,2740167,Facebook,Jennifer Haney,Sold,2025-02-03
+26,Anne Ortiz,24,Male,Pakistani,2341577,Dubai Hills,Apartment,5,2885867,1320131,Google,Cory Silva,Sold,2025-08-10
+27,Jennifer Mckee,48,Male,Pakistani,1815173,Dubai Hills,Townhouse,2,3599701,1865751,Google,James Gregory,Cancelled,2026-06-24
+28,Donald Pearson,29,Female,Emirati,2906248,Dubai Hills,Penthouse,4,1448565,746227,Instagram,Steven Price,Pending,2026-04-27
+29,Tammy Vazquez,61,Male,Chinese,2627605,Palm Jumeirah,Apartment,2,634165,2136660,Instagram,Albert Murphy,Sold,2025-01-29
+30,Calvin Ruiz,25,Male,Egyptian,4299934,Jumeirah,Villa,6,4946543,4077107,Google,Joel Henry,Cancelled,2026-04-24
+31,Scott Diaz,43,Male,Russian,532067,Dubai Marina,Apartment,4,1258560,1527551,Google,Mario Giles,Sold,2024-12-21
+32,Denise Ruiz,56,Male,Chinese,4524114,Downtown Dubai,Penthouse,4,3626356,2813936,Instagram,Gail Rios,Sold,2026-01-08
+33,Kenneth Johnson,40,Male,British,2229461,Business Bay,Penthouse,3,3349887,1452760,Google,Derek Rose,Sold,2025-03-14
+34,Taylor Jacobson,43,Female,Emirati,547193,Downtown Dubai,Villa,2,1047125,3429608,Instagram,Joshua Rios,Cancelled,2025-06-13
+35,Judy Henry,63,Male,Indian,1195040,Dubai Marina,Apartment,3,2220952,436165,Instagram,Jennifer Morgan,Sold,2026-04-11
+36,Margaret Bradley,28,Male,Chinese,3444037,Dubai Marina,Apartment,4,3925259,2460855,Google,Tina Oneill,Pending,2026-05-20
+37,Mitchell Bell,63,Male,Saudi,2923885,Dubai Marina,Apartment,1,2298792,2109487,Facebook,Robin Pratt,Pending,2025-07-04
+38,William Mcguire,48,Male,Emirati,3607630,Jumeirah,Villa,3,2883326,5405676,Website,Donna Cordova,Sold,2026-04-17
+39,Carol Simpson,42,Female,Indian,755212,Business Bay,Penthouse,4,2397681,1637956,Website,Alex Potter,Sold,2025-01-07
+40,Gary Middleton,60,Female,Egyptian,3868425,Dubai Hills,Townhouse,3,4602053,3772250,Referral,Gary Dominguez,Sold,2025-06-23
+41,Jerry Moreno,27,Female,Indian,3164365,Business Bay,Penthouse,4,647028,2214695,Referral,Dakota Ford,Cancelled,2025-06-03
+42,Kimberly Wilson,65,Male,Egyptian,2464730,Jumeirah,Penthouse,2,4143935,3127703,Google,John Woodard,Sold,2025-11-04
+43,Jessica Jones,47,Female,British,2416717,Business Bay,Villa,4,4993234,1294387,Website,Ms. Jennifer Roberts,Sold,2025-04-16
+44,Stephanie Miller,42,Male,Indian,4384160,Jumeirah,Townhouse,4,5830589,2551085,Facebook,Andrew Allen,Sold,2025-03-07
+45,Michelle Bailey,58,Female,Russian,793655,Dubai Hills,Villa,1,4358275,322487,Website,Mary Gill,Cancelled,2026-02-07
+46,Anthony Johnson,48,Female,Russian,4284585,Palm Jumeirah,Penthouse,5,4588379,469075,Referral,Brian Young PhD,Cancelled,2024-11-18
+47,Paula Baker,38,Female,British,3131163,Dubai Marina,Townhouse,2,780563,1482674,Instagram,Misty Sanford,Sold,2024-08-13
+48,Martha Thomas,54,Female,Saudi,897214,Jumeirah,Apartment,2,4334458,3033830,Referral,Jeffrey Herman,Sold,2026-03-29
+49,James Lee,27,Male,Pakistani,4290591,Palm Jumeirah,Apartment,3,2771464,432511,Google,Courtney Nash,Sold,2024-09-25
+50,Edwin Mitchell,40,Male,Russian,3384165,Jumeirah,Apartment,3,5639983,2992224,Website,Cheryl Graves,Cancelled,2026-04-03
+51,Eric Holden,52,Female,Emirati,2450269,Jumeirah,Villa,3,1330756,3196859,Facebook,Jason Wright,Sold,2025-12-05
+52,Ricky Friedman,64,Male,Emirati,1095907,Dubai Marina,Villa,6,874005,2440017,Instagram,Alexis Campbell,Cancelled,2025-06-19
+53,Jessica Cruz,48,Female,Pakistani,2996080,Business Bay,Penthouse,4,4061159,445479,Referral,Mike Smith,Pending,2025-12-30
+54,Allison Allen,56,Female,Egyptian,1439186,Dubai Marina,Penthouse,1,2743540,5133150,Referral,Jennifer Castro,Sold,2025-07-20
+55,Kari Young,44,Male,British,563222,Business Bay,Villa,4,2899098,2263022,Instagram,Julie Cantu,Sold,2024-11-22
+56,Victor Valencia,52,Male,Chinese,542152,Dubai Hills,Penthouse,4,4824983,2717405,Instagram,Melissa Erickson,Sold,2025-12-10
+57,Julie Greer,63,Male,Emirati,3715311,Dubai Hills,Villa,3,1503087,893773,Referral,Stephanie Brennan,Sold,2025-10-01
+58,Melinda Rodriguez PhD,61,Female,Pakistani,2411880,Jumeirah,Townhouse,2,2170475,385233,Facebook,Lisa Lewis,Sold,2025-09-15
+59,Cameron Ortiz,43,Male,Emirati,3769312,Jumeirah,Townhouse,6,1147856,4574377,Referral,Brandy Collins,Sold,2024-09-06
+60,Christopher Martin,45,Male,Saudi,2414774,Jumeirah,Villa,4,975070,3747717,Google,Thomas Smith,Sold,2025-09-06
+61,Kaitlyn Thomas,42,Male,Saudi,1427757,Jumeirah,Villa,2,3837301,478082,Facebook,Jamie Shaw,Sold,2025-08-29
+62,Angela Johnson,54,Female,Russian,543819,Dubai Marina,Villa,5,4206662,1929742,Website,Tina Rodriguez,Cancelled,2026-01-29
+63,Amy Wilson,35,Male,Indian,813224,Dubai Hills,Penthouse,4,3117208,914668,Referral,Jason Romero,Pending,2024-07-01
+64,Tina Novak,47,Female,Egyptian,2412940,Dubai Hills,Villa,1,5790936,3742187,Website,Timothy Velasquez,Cancelled,2024-10-01
+65,Yvonne Howe,49,Male,Pakistani,4575317,Palm Jumeirah,Apartment,1,4821039,4994580,Google,Eric Osborn,Cancelled,2025-05-31
+66,Melissa Robbins,65,Female,Egyptian,782443,Downtown Dubai,Apartment,2,3896896,2725260,Facebook,Johnny Horton,Cancelled,2025-07-06
+67,Keith Clark,48,Male,Egyptian,320356,Palm Jumeirah,Apartment,1,2204562,3896735,Instagram,Kevin Holt,Pending,2025-12-26
+68,Michael Eaton,36,Male,Saudi,3819947,Palm Jumeirah,Penthouse,6,1748137,2566834,Google,Dawn Burke,Cancelled,2024-09-13
+69,Jimmy Rhodes,65,Female,Egyptian,3123395,Business Bay,Apartment,5,3719334,4413897,Facebook,Nicholas Lawrence,Sold,2024-12-18
+70,Daniel Dawson,33,Male,Pakistani,4888708,Dubai Hills,Apartment,6,3530449,4136589,Facebook,Molly Bell,Sold,2025-02-17
+71,Dr. Stacie Carroll MD,40,Female,Pakistani,4351560,Downtown Dubai,Townhouse,4,3756209,5489302,Facebook,Anna Bowen,Sold,2025-08-27
+72,Gregg May,33,Female,Indian,4653719,Jumeirah,Apartment,6,4478972,4458531,Facebook,Denise Montgomery,Sold,2025-04-13
+73,Heather Floyd,60,Male,Emirati,876031,Business Bay,Villa,6,1731042,3185346,Referral,Kevin Pacheco,Pending,2026-06-20
+74,Brent Montgomery,53,Female,British,406399,Downtown Dubai,Townhouse,1,1525300,4130294,Instagram,Joseph Smith,Sold,2025-07-14
+75,Greg Smith,59,Male,Emirati,2857956,Jumeirah,Villa,1,2195860,3495325,Website,Ashley Nichols,Sold,2024-12-29
+76,Sandra Middleton,22,Male,Emirati,3739420,Palm Jumeirah,Penthouse,1,860127,2078337,Website,Emma Stevenson,Sold,2024-08-01
+77,Brian Burch,24,Male,Chinese,3779434,Dubai Marina,Penthouse,6,2197479,1927308,Google,Molly Edwards,Pending,2025-06-14
+78,Ryan Welch,46,Female,Emirati,2471209,Palm Jumeirah,Apartment,1,3626772,2178588,Instagram,Nicholas Gonzalez,Pending,2025-05-21
+79,Jonathon Reyes DDS,48,Male,Russian,2764896,Downtown Dubai,Townhouse,1,2879059,541394,Google,Mark Perry,Sold,2025-04-10
+80,Nancy Smith,47,Male,Emirati,409025,Palm Jumeirah,Penthouse,2,1471882,3528575,Google,Stephanie Griffin,Cancelled,2024-12-03
+81,Zachary Hall,52,Male,Emirati,1820416,Jumeirah,Villa,3,1746417,4589348,Google,Shelly Roberson,Sold,2025-01-01
+82,Aaron Graham,22,Female,Russian,2187278,Jumeirah,Townhouse,4,590823,983183,Referral,Carl Martin,Pending,2025-04-21
+83,Courtney Navarro,33,Female,Indian,3860036,Dubai Marina,Penthouse,2,3469635,323368,Website,Andrew Reilly,Sold,2026-02-14
+84,Dawn Brown,28,Female,Indian,2055098,Downtown Dubai,Villa,1,4563168,3282966,Instagram,Jessica Williams,Cancelled,2026-03-24
+85,Robert Ward,27,Male,Emirati,2712617,Dubai Hills,Townhouse,1,1438513,4088801,Referral,Paul Montgomery,Sold,2024-07-02
+86,Cynthia Guzman MD,59,Female,Egyptian,776729,Jumeirah,Villa,4,2941960,3185095,Website,Steven Smith,Sold,2025-08-12
+87,Ryan Cummings,34,Male,British,1147792,Downtown Dubai,Townhouse,3,3348619,1739491,Facebook,Charles Moses,Sold,2025-01-28
+88,Michael Williams,48,Male,Emirati,2380666,Business Bay,Apartment,3,5868752,4201454,Google,Robert Scott,Sold,2024-10-12
+89,Casey Jefferson,34,Male,Pakistani,1316091,Palm Jumeirah,Apartment,6,549909,4843020,Facebook,Nathan Davidson,Sold,2024-10-16
+90,Sarah Francis,48,Female,Russian,2028781,Downtown Dubai,Penthouse,3,1705875,3253660,Google,Jason Whitney,Pending,2025-03-01
+91,Elizabeth Howell,31,Female,Egyptian,4417077,Jumeirah,Apartment,6,5823284,2562403,Facebook,Teresa Garcia,Pending,2025-08-02
+92,Thomas Holmes,62,Female,Pakistani,4950045,Business Bay,Apartment,3,5309464,935887,Referral,Tammy Best,Sold,2025-10-15
+93,Jamie Browning,65,Male,Indian,2106106,Palm Jumeirah,Apartment,5,5462505,4039895,Google,Daniel Snyder,Pending,2026-02-09
+94,Keith Cohen,62,Male,Pakistani,1955262,Palm Jumeirah,Townhouse,3,1930947,5022216,Facebook,Phillip Davis,Pending,2026-03-22
+95,Crystal Miller,27,Male,Russian,4098882,Downtown Dubai,Townhouse,6,4672430,1233915,Website,Emily Dean,Sold,2025-06-23
+96,Jordan Stanton,28,Female,Chinese,2803731,Dubai Marina,Apartment,1,410725,881017,Instagram,Bobby Cooper,Cancelled,2026-06-02
+97,Kathleen Sims,25,Male,Saudi,977737,Jumeirah,Townhouse,1,3608585,4810201,Instagram,Mrs. Pamela Ortiz DVM,Pending,2026-01-31
+98,Nicole Hill,26,Male,British,4112909,Downtown Dubai,Townhouse,1,3625105,2170488,Website,Walter Graves,Sold,2025-05-09
+99,Jennifer Wilcox,53,Male,Emirati,4158768,Palm Jumeirah,Villa,5,2990689,5265412,Website,Robert Davis,Sold,2024-07-21
+100,John Dean,38,Female,British,4677702,Palm Jumeirah,Penthouse,6,5813508,3990511,Instagram,Michele Martin,Sold,2025-02-17
+101,Dawn Nichols,51,Male,Pakistani,3557422,Business Bay,Penthouse,4,748821,1674560,Website,Elizabeth Johnson,Sold,2025-07-05
+102,Jerry Smith,47,Female,Indian,2089561,Downtown Dubai,Penthouse,2,4973135,3652041,Instagram,Jennifer Molina,Sold,2025-07-24
+103,Amber Graham,36,Female,Egyptian,4404223,Dubai Hills,Villa,5,4854868,4212953,Website,Amanda Cross,Pending,2025-11-29
+104,Brittany Chavez,39,Male,British,3210295,Palm Jumeirah,Apartment,1,4091192,4636595,Instagram,Deborah Mack,Sold,2026-03-13
+105,Ashlee Ibarra,50,Female,Emirati,3796651,Dubai Hills,Apartment,4,1912714,2862052,Facebook,David Johnston,Cancelled,2025-12-02
+106,Brian Mitchell,53,Female,Saudi,1380555,Dubai Marina,Villa,4,3390539,783718,Instagram,David Lewis,Sold,2026-01-07
+107,Joshua Blackwell,29,Female,Emirati,1349632,Business Bay,Penthouse,5,402853,2554180,Google,Lisa Jones,Pending,2026-04-29
+108,Ronald Bishop,39,Female,Russian,4734436,Jumeirah,Penthouse,2,1543103,4420225,Google,Michael Henderson,Sold,2025-08-30
+109,Jessica Lang,24,Female,Pakistani,1449501,Dubai Marina,Penthouse,3,2347603,3162013,Referral,Christopher Henderson,Sold,2026-06-07
+110,Courtney Hickman,33,Female,British,4743269,Dubai Hills,Penthouse,1,2105929,2539334,Google,Erika Hall,Sold,2024-12-08
+111,Darlene Thompson,44,Male,Pakistani,3297465,Downtown Dubai,Apartment,5,5397855,1971519,Facebook,Justin Butler,Sold,2025-02-02
+112,Glenda Brown,52,Female,British,570177,Downtown Dubai,Penthouse,3,698101,1338729,Referral,Richard Peterson,Sold,2026-01-10
+113,Walter Sexton,59,Female,Egyptian,1377061,Business Bay,Penthouse,6,1474617,4476772,Instagram,Timothy Anderson,Sold,2026-04-06
+114,Jessica Haynes,46,Male,Egyptian,978113,Dubai Hills,Townhouse,6,5622957,5127825,Referral,Christopher Turner,Pending,2024-08-22
+115,Benjamin Burton,26,Female,Pakistani,1800127,Dubai Hills,Penthouse,6,1347660,1278598,Facebook,David Jarvis,Sold,2024-06-26
+116,Nicole Wood,36,Female,Indian,511322,Palm Jumeirah,Apartment,1,921648,1042359,Facebook,Olivia Tran,Sold,2026-05-31
+117,Derek Fernandez,32,Male,Saudi,547312,Downtown Dubai,Apartment,3,645365,5466242,Website,Alexander Holden,Pending,2025-01-10
+118,Larry Pitts,43,Female,Pakistani,2001184,Jumeirah,Apartment,1,5316952,604275,Google,Joann James MD,Sold,2024-12-22
+119,Sheri Hanson,47,Female,Indian,2369160,Palm Jumeirah,Townhouse,5,5146543,5374012,Facebook,James Taylor,Cancelled,2025-04-20
+120,Vanessa Leonard,53,Male,Emirati,4107645,Downtown Dubai,Townhouse,1,5220707,311430,Facebook,Erin Miller,Sold,2024-08-06
+121,Julie Rhodes,60,Male,Saudi,4266003,Dubai Hills,Penthouse,2,4807846,367770,Website,Brian Casey,Sold,2025-11-17
+122,Ronnie Ryan,56,Female,Pakistani,2862519,Jumeirah,Apartment,1,3972697,5129404,Website,Brandon Hudson,Sold,2025-02-16
+123,Joy Smith,49,Male,Emirati,2422454,Dubai Marina,Apartment,6,1604834,3623537,Instagram,Laura Rush,Cancelled,2025-05-11
+124,Chad Waters,24,Female,British,782663,Business Bay,Villa,1,4471083,5488128,Referral,Brian Floyd,Sold,2025-12-25
+125,Michael Peck,43,Male,Emirati,765085,Dubai Hills,Apartment,4,2054767,808304,Website,Barbara Dyer,Sold,2026-02-01
+126,Aaron Russell,58,Male,Saudi,4036791,Dubai Marina,Villa,6,5410315,1147544,Website,Amanda Harris,Sold,2026-03-23
+127,Brandon Hawkins,48,Female,Emirati,3263225,Jumeirah,Apartment,1,4164003,3450782,Referral,Michele Hunter,Sold,2025-02-10
+128,Jodi Collins,55,Female,Russian,2680958,Downtown Dubai,Villa,1,4515169,4747218,Instagram,Todd Flowers,Sold,2024-10-10
+129,Anthony Michael,22,Male,Emirati,4007999,Dubai Marina,Apartment,2,2648992,440267,Google,Mr. Jason Smith,Pending,2025-04-15
+130,Gloria Robertson,48,Male,Chinese,3766572,Dubai Hills,Townhouse,1,5048446,1493633,Website,Ashley Hicks,Sold,2025-06-26
+131,Brandon Moreno,30,Male,Russian,2578241,Jumeirah,Townhouse,1,1931655,4961551,Instagram,Julia Williams,Sold,2025-10-07
+132,Cheryl Rogers,28,Female,Egyptian,2157420,Business Bay,Townhouse,5,5200188,3244289,Google,William Powell,Pending,2025-07-21
+133,Caitlyn Ponce,54,Male,Emirati,2440035,Palm Jumeirah,Villa,4,5769130,982489,Instagram,Victor Hunter,Sold,2025-02-04
+134,Christopher Woodward,48,Female,Chinese,3491046,Palm Jumeirah,Townhouse,3,3989933,2745011,Referral,Russell Arroyo,Sold,2026-05-21
+135,Jeffery Waller,52,Male,Indian,3419367,Downtown Dubai,Apartment,6,1229935,1508462,Referral,Jasmine Watts,Pending,2026-03-13
+136,Craig Cruz,41,Male,Saudi,1674202,Business Bay,Villa,6,2685750,4458025,Facebook,Jennifer Parker,Cancelled,2026-03-10
+137,Sara Brewer,44,Male,Indian,311968,Dubai Marina,Penthouse,5,884763,4285583,Facebook,Derek Martin,Pending,2024-07-10
+138,Sandra Gregory,51,Female,Emirati,3344161,Downtown Dubai,Townhouse,2,467241,4447891,Referral,Julia Thompson,Cancelled,2025-08-19
+139,Michael Holt,34,Female,Russian,2162696,Dubai Marina,Apartment,4,2171900,2233132,Website,Alyssa Huber,Pending,2025-09-03
+140,Keith Spence,51,Male,British,1371770,Dubai Hills,Penthouse,1,4941240,1103874,Facebook,Tamara Andrews,Sold,2025-01-21
+141,Anthony Rodriguez,33,Female,Russian,2533990,Palm Jumeirah,Villa,6,1032714,2918322,Google,Richard Graham,Sold,2026-06-14
+142,Veronica Williams,47,Male,British,3966572,Downtown Dubai,Townhouse,3,2316430,632593,Facebook,Ashley Walker,Pending,2026-02-03
+143,Catherine Downs,23,Male,Pakistani,2861096,Dubai Hills,Villa,6,5346078,4705529,Instagram,James Pittman,Sold,2025-12-27
+144,Rebecca Wolfe,39,Female,Saudi,4121968,Palm Jumeirah,Townhouse,5,409813,5271113,Instagram,Elizabeth Coleman,Pending,2025-05-24
+145,Gary Bowen,37,Female,Saudi,2051467,Dubai Hills,Townhouse,6,1115194,923940,Website,Hailey Cook,Sold,2024-09-04
+146,George Warren,41,Male,Egyptian,4226676,Palm Jumeirah,Apartment,4,4071539,4212207,Google,Nancy Castillo,Sold,2025-01-25
+147,Daniel Soto,29,Male,Egyptian,1382816,Jumeirah,Villa,4,4886698,4279377,Facebook,Michael Lester PhD,Sold,2026-03-26
+148,Kathryn King,46,Female,Pakistani,3920475,Jumeirah,Penthouse,1,3818592,4237308,Website,Jose Howard,Sold,2024-07-29
+149,Don Turner,26,Male,Emirati,767579,Business Bay,Townhouse,2,4551232,2973755,Referral,Carolyn Ayers,Cancelled,2024-11-22
+150,Mike Quinn,36,Male,Pakistani,2270370,Dubai Hills,Townhouse,1,5895232,2642298,Facebook,Erin Wilson,Sold,2024-12-18
+151,Christine Martinez,63,Male,Russian,3310989,Business Bay,Townhouse,5,4675052,2935986,Google,Ann Harper,Pending,2025-11-25
+152,Luis Martinez,55,Male,Egyptian,1450763,Business Bay,Townhouse,2,2047037,1365018,Instagram,Nancy Hill,Sold,2024-08-17
+153,Eric Nichols,54,Male,Egyptian,3501784,Jumeirah,Apartment,5,5123312,5226880,Referral,Kimberly Collins,Cancelled,2025-12-10
+154,Cynthia Clements,54,Male,Russian,1199594,Dubai Marina,Townhouse,1,651779,3295019,Referral,David Carney,Pending,2025-03-10
+155,Cody Carter,48,Female,Emirati,3913562,Dubai Hills,Penthouse,1,5772718,4916186,Referral,Cody Bennett,Pending,2026-01-19
+156,Warren Santos,62,Female,Chinese,2492634,Dubai Marina,Villa,4,3238266,640579,Instagram,Taylor Odom,Sold,2025-02-26
+157,Jay Schmidt,46,Female,British,1274595,Downtown Dubai,Townhouse,1,1789401,2278816,Facebook,Beth Meyer,Sold,2025-10-30
+158,Amanda Potter,32,Female,Chinese,2958363,Palm Jumeirah,Townhouse,6,5395711,5016871,Google,Suzanne Montgomery,Cancelled,2025-04-09
+159,Michael Mccullough,45,Male,Egyptian,1305466,Dubai Marina,Penthouse,1,963680,3681868,Instagram,Ana Hampton,Pending,2026-05-05
+160,Jeffrey Robinson,37,Female,Emirati,4870906,Dubai Marina,Apartment,3,5391703,1465672,Google,Brian Odonnell,Sold,2026-04-15
+161,Mrs. Rachel Chen,65,Female,Emirati,474673,Jumeirah,Penthouse,4,5015900,5264694,Instagram,Donald Manning,Pending,2026-04-05
+162,Joseph Thomas,53,Male,British,3173677,Downtown Dubai,Townhouse,3,4633673,4823458,Facebook,Janice Byrd,Pending,2025-03-29
+163,James Donovan PhD,45,Male,Indian,2826656,Jumeirah,Villa,2,969810,4736501,Website,Daniel Rodriguez,Sold,2025-08-09
+164,Michelle Frank,34,Female,Indian,1104923,Jumeirah,Apartment,2,5009364,2525039,Facebook,Kevin Gray,Cancelled,2026-05-09
+165,Audrey Rowe,58,Female,Emirati,3126301,Palm Jumeirah,Apartment,3,2671881,1742365,Google,Carlos Nichols,Sold,2024-10-08
+166,Richard Ayala,51,Male,Russian,4360787,Jumeirah,Apartment,2,5273361,536855,Instagram,Karen Carlson,Sold,2025-02-22
+167,Christopher Frederick,62,Male,Chinese,2716611,Downtown Dubai,Penthouse,5,4712334,2679982,Website,Marissa Wood,Sold,2025-12-29
+168,Wendy Smith,52,Male,Pakistani,4969319,Palm Jumeirah,Townhouse,6,375046,5113778,Google,Eric Barnett,Cancelled,2025-05-19
+169,Stacy Savage,23,Male,Pakistani,563545,Downtown Dubai,Apartment,5,4792844,1581644,Referral,Julie Martin,Pending,2026-03-27
+170,Charles Roberts,59,Female,Egyptian,1583057,Palm Jumeirah,Apartment,6,3447447,4053863,Referral,Andrew Smith,Sold,2025-08-01
+171,Walter Massey,63,Male,British,602782,Dubai Marina,Apartment,3,617639,5144500,Referral,Catherine Hendrix,Sold,2026-01-06
+172,Amanda Ayala,24,Male,Russian,2729601,Business Bay,Townhouse,6,2673596,498526,Website,Patty Walls,Sold,2025-01-30
+173,Mrs. Annette Thomas,26,Male,Egyptian,1315995,Dubai Hills,Townhouse,3,595408,3233497,Facebook,Natalie Benjamin,Pending,2025-04-26
+174,Brianna Giles,46,Male,Indian,4172729,Palm Jumeirah,Apartment,1,770249,4178486,Instagram,Mary Harris,Sold,2024-07-03
+175,Dale Jenkins,22,Female,Egyptian,1836437,Dubai Hills,Villa,5,1527591,2110279,Google,Robin Jimenez,Sold,2025-05-18
+176,David Crosby,34,Female,Chinese,501902,Downtown Dubai,Penthouse,6,1296179,1018238,Facebook,Dawn Allison,Pending,2024-10-26
+177,Cynthia Peterson,41,Female,Chinese,4289829,Dubai Hills,Villa,4,5056787,3029967,Referral,Gina Bonilla,Cancelled,2025-01-27
+178,Kimberly Delgado,29,Female,Indian,4549300,Business Bay,Apartment,6,5990608,5067104,Google,Timothy Montes,Sold,2026-01-01
+179,Gregory Woodard,30,Male,Russian,316542,Palm Jumeirah,Townhouse,5,2728057,674581,Referral,Steven Parker,Sold,2026-06-05
+180,Joshua Dawson,46,Male,Emirati,1007704,Downtown Dubai,Apartment,3,2080067,3125995,Instagram,Jennifer Klein,Sold,2026-04-17
+181,Alexandra Green,62,Female,Russian,2057615,Business Bay,Penthouse,1,354564,3378518,Google,Tony Sanchez,Sold,2024-11-10
+182,Dr. Elizabeth Herrera,56,Male,Saudi,1534096,Dubai Hills,Apartment,3,2876342,3026767,Google,James Lee,Cancelled,2025-01-15
+183,Samantha Reid,35,Female,Emirati,3094051,Business Bay,Townhouse,4,5844031,5322671,Instagram,Carol Jones,Sold,2025-04-12
+184,Patricia Dunn,61,Male,Russian,1114923,Jumeirah,Penthouse,4,710613,1419166,Facebook,Barbara James,Cancelled,2025-01-25
+185,Kimberly Knight,49,Female,Saudi,2159688,Jumeirah,Villa,2,2842071,670438,Referral,Roger Gonzales,Cancelled,2025-01-30
+186,Kari Robinson,63,Female,Emirati,2897251,Downtown Dubai,Apartment,1,1150685,379073,Referral,Kaitlyn Morgan,Sold,2025-03-18
+187,Kathy Martin,44,Male,Indian,3041829,Jumeirah,Penthouse,3,4803171,2997208,Facebook,Logan Zamora,Pending,2025-10-30
+188,Kelsey Henry,42,Female,Pakistani,4630370,Dubai Hills,Townhouse,4,1746673,4662552,Referral,Bradley Flores,Sold,2025-05-10
+189,Mark Dixon,37,Female,Russian,3300155,Dubai Marina,Penthouse,2,3512755,2293312,Website,Kelsey Cooper,Pending,2025-07-11
+190,Robert Knox,28,Female,British,2333255,Palm Jumeirah,Apartment,4,4659321,3323075,Instagram,Justin Jones,Pending,2025-03-14
+191,Jill Hendrix,36,Male,Russian,3529253,Jumeirah,Villa,6,5223932,1854744,Google,Grant Compton,Pending,2025-06-16
+192,Kristy Morris,35,Male,Chinese,4894408,Palm Jumeirah,Apartment,4,655726,5366443,Referral,Kim Bailey,Sold,2025-03-12
+193,Erik Turner,32,Male,Emirati,4972435,Business Bay,Apartment,3,4669389,1133669,Facebook,Charles Petersen,Pending,2024-07-11
+194,Anna Crawford,56,Male,Russian,4549448,Palm Jumeirah,Villa,6,1034595,850398,Referral,Natalie Jones,Sold,2024-12-29
+195,George Marshall,24,Male,Pakistani,1282475,Dubai Hills,Apartment,1,5471744,2311705,Instagram,Brian Herrera,Sold,2025-05-07
+196,Miguel Harris,48,Female,Saudi,1938570,Downtown Dubai,Penthouse,3,1457696,4484505,Instagram,Stephen Welch,Sold,2025-01-01
+197,Dan Taylor,46,Male,Chinese,551857,Dubai Hills,Villa,2,3947609,3583172,Google,Timothy Rangel,Pending,2025-12-15
+198,Tammy Leonard,22,Female,Chinese,4238644,Palm Jumeirah,Villa,4,4026295,1741813,Instagram,Leslie Acosta DVM,Cancelled,2025-07-04
+199,Lisa Robinson,47,Male,Russian,1337488,Dubai Marina,Townhouse,3,366011,4379992,Website,David Mccoy,Sold,2024-08-10
+200,Brent Thornton,47,Female,Indian,555727,Palm Jumeirah,Villa,1,5114932,4414219,Instagram,Toni Smith,Pending,2024-12-02
+201,Stephen Ball,39,Female,British,2393858,Jumeirah,Townhouse,6,5855773,1277446,Google,Daniel Woodward,Sold,2025-07-05
+202,David Harrison,34,Female,Chinese,1302727,Downtown Dubai,Townhouse,2,4040177,1962850,Referral,Brittany Becker,Pending,2026-02-22
+203,Diane Gilmore,27,Female,Saudi,2563112,Downtown Dubai,Penthouse,5,2089075,5482651,Referral,Tim Terrell,Cancelled,2025-03-11
+204,Megan Ford,27,Male,Chinese,3356125,Dubai Marina,Villa,4,2849971,3906617,Referral,Christy Webster,Sold,2024-08-19
+205,Shannon Williams,30,Male,British,2373833,Business Bay,Penthouse,4,5699898,4490078,Instagram,Adrian Lane,Pending,2024-11-06
+206,Dennis Beard,34,Female,Pakistani,1650350,Business Bay,Apartment,3,4036705,5393569,Google,Jessica Terry,Sold,2024-10-18
+207,Jared Gentry,38,Male,Pakistani,2436465,Dubai Hills,Townhouse,1,1596030,2721862,Website,Jennifer Pearson,Sold,2024-11-06
+208,Anne Tucker,61,Female,Egyptian,4077736,Dubai Hills,Townhouse,5,4894884,1572247,Facebook,Linda Robinson,Sold,2024-11-18
+209,Mary Velazquez,60,Male,Saudi,509241,Jumeirah,Penthouse,1,512493,2593766,Facebook,Meghan Simpson,Sold,2026-04-09
+210,Sabrina Watkins,24,Male,Russian,2764807,Dubai Hills,Apartment,6,3503594,3163659,Referral,Ashley Peterson,Cancelled,2024-11-23
+211,Justin Tran,54,Female,Russian,2614899,Dubai Hills,Townhouse,4,3331595,2853115,Instagram,Judith Walsh,Sold,2025-10-26
+212,Andrew Curry,40,Male,Saudi,1703723,Dubai Hills,Penthouse,6,4899703,2557984,Google,Kurt Turner,Sold,2026-04-06
+213,Daniel Massey,39,Male,Emirati,1389728,Downtown Dubai,Apartment,4,3743470,2076506,Facebook,Justin Palmer,Sold,2025-06-08
+214,Joseph Shelton,28,Female,Indian,913318,Jumeirah,Townhouse,4,1376233,4293835,Google,Becky Ross,Sold,2025-03-08
+215,Lee King,38,Female,Egyptian,3529289,Business Bay,Apartment,5,3291036,1957527,Facebook,Jacob Andrews,Sold,2025-01-12
+216,Peter Schroeder,54,Female,Saudi,2475584,Dubai Marina,Townhouse,3,996600,4804726,Google,Jessica Allen,Cancelled,2024-10-31
+217,Jason Johnson,47,Female,British,1211152,Dubai Hills,Penthouse,6,3727878,1546450,Facebook,Cynthia Allen,Pending,2024-07-18
+218,Timothy Cox,59,Female,Egyptian,2411425,Dubai Marina,Apartment,1,4741171,2574466,Referral,James Johnson,Sold,2025-07-15
+219,Edward Orr,29,Male,Chinese,2007474,Dubai Hills,Townhouse,2,1868784,1935910,Google,Amber Pacheco,Sold,2024-11-05
+220,Michael Green,41,Male,Pakistani,920876,Jumeirah,Penthouse,2,5559888,1481358,Facebook,Robert Fleming,Sold,2024-07-19
+221,Annette Smith,26,Male,Indian,2784702,Dubai Marina,Apartment,2,5422683,1655909,Referral,Raymond Lucas,Sold,2025-02-22
+222,Jennifer Khan,23,Female,Russian,1840186,Dubai Marina,Penthouse,2,3862728,782027,Website,Morgan Gibson,Sold,2024-09-21
+223,Jo Miller DVM,29,Female,Emirati,2792855,Jumeirah,Villa,3,3029614,5058285,Facebook,Julie Moore,Cancelled,2025-04-19
+224,Emily Rogers,52,Female,Pakistani,3545187,Downtown Dubai,Villa,5,3684087,1709870,Facebook,Kevin Vargas,Sold,2024-10-30
+225,Catherine Williams,24,Female,Indian,4522232,Business Bay,Villa,2,1477314,2041062,Instagram,Jorge Brady,Sold,2025-09-11
+226,Lisa Carney,37,Male,British,2081861,Dubai Marina,Penthouse,2,5500304,1483802,Facebook,Joseph Durham,Cancelled,2026-06-23
+227,Henry Elliott,61,Female,Egyptian,3355133,Business Bay,Townhouse,1,5885323,3215898,Google,Zachary Gilbert,Sold,2026-05-08
+228,Christine Olson,36,Female,British,2396431,Dubai Marina,Penthouse,5,3237056,696257,Facebook,Christopher Walker,Sold,2025-03-09
+229,Tanya Mann,53,Female,Egyptian,2597285,Dubai Marina,Townhouse,3,4994753,4212560,Instagram,Jennifer Henry,Pending,2025-02-17
+230,Jacqueline Harris,38,Male,Russian,2383576,Business Bay,Apartment,6,5090205,4578887,Instagram,Curtis Townsend,Sold,2025-01-30
+231,Susan Johnson,60,Female,Emirati,4794340,Downtown Dubai,Villa,2,4411914,2597085,Google,Monica Wilson,Sold,2024-12-12
+232,Pamela Romero,39,Male,Egyptian,1755425,Palm Jumeirah,Townhouse,2,2642359,3722742,Referral,Amber Garcia,Sold,2025-07-19
+233,John Cunningham,46,Female,Indian,3254071,Dubai Hills,Apartment,2,3013637,5101688,Instagram,Taylor Swanson,Sold,2026-06-02
+234,Lee Bauer,37,Female,Pakistani,988503,Dubai Hills,Villa,6,3235407,1364479,Website,Gina Miller,Cancelled,2025-11-19
+235,Michael Spears,48,Male,Pakistani,1285617,Downtown Dubai,Townhouse,2,3870029,329723,Website,Roberto Arnold DDS,Cancelled,2026-06-03
+236,Roger Horne,62,Female,Indian,1910314,Dubai Marina,Apartment,3,3908747,5256148,Instagram,Steven Armstrong,Pending,2025-11-20
+237,Alyssa Tran,38,Female,Saudi,2896358,Dubai Marina,Penthouse,2,4486081,700459,Instagram,Natalie Griffin,Sold,2025-09-27
+238,Daniel Adams,32,Male,Pakistani,4798556,Downtown Dubai,Villa,1,2648738,1673167,Instagram,David White,Sold,2025-12-20
+239,Stephanie Hunt,46,Female,Egyptian,2846263,Dubai Hills,Penthouse,5,4790204,1362280,Facebook,Cynthia Henson,Pending,2025-03-28
+240,John Hill,24,Male,Emirati,2941858,Downtown Dubai,Apartment,6,2142837,3296119,Referral,Cassie Mendoza,Sold,2025-08-16
+241,Jim Harris,27,Female,Indian,4975537,Palm Jumeirah,Villa,1,3327413,3470716,Referral,Cheryl Nelson,Sold,2026-05-10
+242,Mackenzie Fernandez,41,Male,Pakistani,952223,Dubai Hills,Townhouse,1,5000653,1715006,Referral,Jamie Gallagher,Pending,2026-06-17
+243,James Glenn,34,Female,Pakistani,4123511,Jumeirah,Penthouse,1,2115875,3668506,Website,Kevin Henderson,Sold,2026-05-08
+244,Julie Brewer,64,Male,Russian,4074771,Business Bay,Apartment,6,4590566,879161,Website,Lucas Olson,Sold,2025-08-25
+245,Kyle Daugherty,23,Female,Egyptian,3364458,Dubai Marina,Apartment,4,2983914,2060624,Google,Donald Leach,Sold,2025-06-09
+246,Ashley Turner,36,Male,Emirati,3661111,Dubai Marina,Townhouse,1,3299455,4551173,Facebook,Kayla Paul,Pending,2025-05-16
+247,Kristen Brown,27,Female,Emirati,3409221,Jumeirah,Villa,1,5437156,1516718,Google,Mrs. Madison Roberts DVM,Sold,2025-03-29
+248,Dawn Floyd,30,Male,Pakistani,1629955,Dubai Marina,Penthouse,3,2003034,3820587,Website,Jason Phillips,Sold,2026-05-05
+249,Mark Rios,22,Female,Chinese,4908036,Downtown Dubai,Villa,2,546602,4359415,Facebook,Sharon Lopez,Sold,2025-12-25
+250,Jordan Salinas,24,Female,Saudi,1358956,Downtown Dubai,Villa,3,3855179,1712463,Facebook,Jennifer Barber,Pending,2024-09-21
+251,Chelsea Coleman,58,Male,Emirati,4339569,Business Bay,Apartment,1,1628661,4259804,Facebook,Robert Hardy,Pending,2024-12-22
+252,Dillon Walsh,57,Female,British,1789443,Downtown Dubai,Townhouse,2,366859,3455077,Referral,Tiffany Mueller,Pending,2024-09-11
+253,Victoria Finley,22,Male,Russian,541448,Dubai Marina,Penthouse,4,5015078,5216508,Facebook,Morgan Anderson,Cancelled,2024-09-21
+254,Brian Smith,62,Female,Saudi,1161752,Business Bay,Townhouse,5,3413137,4917385,Website,Crystal Jones,Sold,2024-08-09
+255,Antonio Benjamin,65,Female,Chinese,3558505,Dubai Hills,Penthouse,3,2780224,2683471,Facebook,Nathaniel Stein,Sold,2025-11-30
+256,Nancy Banks,28,Male,Russian,3390534,Dubai Hills,Villa,5,5586087,687241,Google,Christian Farmer III,Pending,2026-05-30
+257,Julie Webster,22,Female,Pakistani,453710,Jumeirah,Apartment,6,5541465,1148031,Facebook,Scott Davis,Sold,2025-06-18
+258,Tony Lynch,52,Male,Saudi,424349,Downtown Dubai,Villa,5,881305,3117740,Google,Mark Lindsey,Sold,2024-12-04
+259,Dawn Rivera,48,Female,Emirati,698572,Dubai Marina,Townhouse,4,3972335,1753149,Google,Kelly Valentine,Sold,2025-08-06
+260,Brittany Ruiz,57,Female,Pakistani,1961503,Dubai Marina,Townhouse,6,5840746,4757985,Referral,Sara Hughes,Sold,2024-10-31
+261,Kaitlyn Meyer,45,Female,Emirati,1722473,Business Bay,Penthouse,6,5777608,1225397,Instagram,Charlene Moreno,Sold,2025-04-01
+262,Cassandra Walker,23,Male,Emirati,2830529,Jumeirah,Apartment,5,1636500,4554091,Instagram,David Frazier,Cancelled,2025-05-01
+263,Brian Williams,40,Female,Chinese,2349394,Dubai Marina,Townhouse,1,1467043,4246084,Website,Patricia Jackson,Sold,2024-09-09
+264,Ashley Harris,48,Male,Pakistani,3189365,Palm Jumeirah,Townhouse,4,2705848,1637575,Referral,James Hicks,Pending,2025-02-14
+265,Kelsey Mckinney,37,Female,Egyptian,3756019,Jumeirah,Villa,3,961097,2466949,Referral,Tammy Perez,Sold,2025-02-13
+266,Tammy Young,25,Male,Emirati,3084877,Palm Jumeirah,Villa,2,3938791,4919629,Google,Brian Skinner,Sold,2025-06-15
+267,Juan Johnson,22,Male,Pakistani,2174042,Jumeirah,Apartment,6,3604626,4628216,Website,Christopher Lopez,Sold,2025-01-06
+268,Cynthia Knight,44,Female,Chinese,1122471,Dubai Marina,Villa,1,2972294,368456,Google,Thomas Dickerson,Sold,2025-02-15
+269,Gary Coleman,32,Male,Pakistani,4715833,Downtown Dubai,Penthouse,1,1750994,3319465,Facebook,Ricardo Mason,Pending,2025-08-03
+270,Richard Wells,57,Female,Pakistani,3624560,Business Bay,Villa,2,1788793,2059018,Website,Steven Stuart,Sold,2026-01-27
+271,Kathryn Ellis,47,Male,British,4808731,Jumeirah,Villa,2,3765339,3884104,Website,Michelle Reeves,Sold,2026-01-23
+272,Joshua Patterson,41,Female,Russian,1019429,Downtown Dubai,Townhouse,2,3145035,2279665,Referral,Luis Mckenzie,Sold,2025-05-09
+273,Timothy Parker,22,Female,Russian,1489809,Palm Jumeirah,Villa,4,5650788,2350991,Website,William Ryan,Sold,2024-12-28
+274,Kevin Stanley,35,Male,British,3686360,Dubai Marina,Penthouse,4,2164503,2630846,Facebook,Louis Park,Sold,2024-08-22
+275,Julie David,38,Male,Egyptian,2044101,Palm Jumeirah,Apartment,2,3161723,2902304,Google,James Hughes,Sold,2025-06-24
+276,Susan Suarez,58,Male,Indian,334222,Downtown Dubai,Penthouse,5,3820799,3904710,Facebook,Tiffany Crawford,Cancelled,2025-01-30
+277,Eric Stone,34,Female,Indian,4527673,Dubai Hills,Townhouse,3,4566691,4860571,Website,Daniel Lozano,Sold,2025-08-10
+278,Mallory Morris,50,Male,Saudi,3230266,Dubai Hills,Penthouse,1,2107284,3297873,Website,Hunter Miller,Sold,2026-03-27
+279,Katherine Moore,39,Male,Egyptian,4003776,Downtown Dubai,Penthouse,3,1066475,5463911,Google,Kelly Roy,Pending,2025-01-03
+280,Juan Clay,42,Female,British,1323195,Dubai Marina,Penthouse,5,5504994,4735965,Instagram,Nancy Mcdonald,Sold,2026-03-10
+281,Johnathan Lee,61,Male,Pakistani,494937,Dubai Hills,Villa,3,2484902,1867138,Website,Kenneth West,Sold,2025-02-26
+282,Lucas Marsh,51,Female,Russian,2471180,Dubai Marina,Apartment,2,5385496,1441676,Google,Steven Gilmore,Pending,2026-05-22
+283,Matthew Reynolds,65,Female,Egyptian,4311350,Dubai Marina,Apartment,5,4458448,2657770,Referral,Mitchell Green,Sold,2025-01-24
+284,Carol Bradford,59,Female,Saudi,3756728,Dubai Marina,Apartment,1,5351606,5495044,Website,Stephanie Johns,Sold,2026-01-29
+285,Angela Martin,55,Female,Pakistani,2577660,Business Bay,Penthouse,6,1924924,4995299,Google,Larry Jones,Sold,2024-09-08
+286,Ryan Moore,24,Male,British,2637507,Downtown Dubai,Penthouse,3,3212549,2979377,Google,Jody Chapman,Sold,2025-07-03
+287,Sarah Patton,22,Female,Indian,1427637,Business Bay,Apartment,1,542154,3815177,Facebook,Carla Cook,Cancelled,2025-01-04
+288,Robert Hill,39,Female,Russian,1378004,Dubai Hills,Apartment,6,1519633,1008881,Referral,Harold Lowe,Sold,2024-09-05
+289,Stephen Estrada,52,Male,Indian,1776560,Dubai Marina,Villa,1,2683532,3746761,Facebook,Samantha Dunn,Sold,2025-10-12
+290,Connor Cameron,22,Female,Indian,1389699,Downtown Dubai,Townhouse,3,5111642,3627699,Google,Daniel Baker,Pending,2025-07-17
+291,Mary Crane,23,Male,Pakistani,2563824,Downtown Dubai,Penthouse,3,1205711,2915237,Instagram,Dr. Miguel Garcia,Sold,2024-08-21
+292,Melinda Sullivan,48,Male,Emirati,430714,Palm Jumeirah,Apartment,2,2365172,3246377,Website,Nicholas Chavez,Pending,2024-09-14
+293,Joshua Mendez,61,Male,Pakistani,2918890,Palm Jumeirah,Townhouse,4,1849259,4984163,Referral,Karen Alvarez,Pending,2026-04-03
+294,Daniel Waters,57,Male,Indian,4148135,Dubai Hills,Townhouse,6,1623850,4826129,Referral,Tammy Brown,Pending,2025-08-06
+295,Michelle Stark,47,Male,Saudi,2558038,Business Bay,Penthouse,5,681460,3021468,Instagram,Nancy Yang,Sold,2025-06-12
+296,Jennifer Miller,33,Female,British,1778147,Business Bay,Apartment,1,5156465,3866254,Referral,Michelle Hicks,Sold,2025-05-12
+297,Nicholas Gates,46,Female,Indian,389695,Downtown Dubai,Penthouse,1,4897571,3917571,Website,Amber Scott,Sold,2026-04-18
+298,Kevin Rodriguez,46,Female,British,3640545,Dubai Hills,Villa,1,5832829,1704700,Referral,Ashley Garcia,Sold,2024-07-24
+299,Ann Liu,26,Female,Russian,4693424,Palm Jumeirah,Townhouse,6,1081980,4835600,Referral,Todd Glover,Pending,2025-01-13
+300,Kevin Wall,23,Female,Indian,929122,Palm Jumeirah,Villa,4,3731100,2648550,Facebook,Stacy Gallegos,Pending,2026-03-21
+301,Jacob Graves,49,Male,Pakistani,3297180,Palm Jumeirah,Penthouse,1,1776138,3854047,Google,Ashley May,Cancelled,2025-08-10
+302,Michael Garza,25,Female,Egyptian,2651746,Downtown Dubai,Villa,2,2749515,2495403,Website,Corey Barrett,Sold,2024-09-11
+303,Jessica Lopez,37,Male,Russian,3481009,Palm Jumeirah,Apartment,6,2779012,4499370,Referral,Isaac Dorsey,Sold,2025-01-12
+304,Maria Rowe,45,Female,Egyptian,2150728,Palm Jumeirah,Villa,2,1814521,2548353,Google,Jody Williams,Sold,2025-03-04
+305,William Welch,55,Male,British,1057512,Palm Jumeirah,Apartment,2,3144482,1632437,Instagram,Robert Wiley,Sold,2024-12-17
+306,Crystal Hartman,50,Female,Egyptian,3224892,Downtown Dubai,Villa,4,5156325,1697552,Instagram,Jessica Davis,Sold,2026-02-26
+307,Randy Coleman,65,Male,Pakistani,1868019,Dubai Marina,Townhouse,1,1827620,3656714,Instagram,Chris Hardy,Cancelled,2024-08-06
+308,Matthew Ruiz,37,Female,Saudi,4710031,Business Bay,Penthouse,6,1088493,1405187,Referral,Richard Lester,Pending,2025-06-10
+309,Mario Hines,57,Male,Chinese,3979772,Jumeirah,Penthouse,2,5662870,3838767,Google,Lindsay Adkins,Cancelled,2025-10-10
+310,Patrick Barton,63,Male,Emirati,4221907,Jumeirah,Penthouse,5,1349729,2531959,Facebook,Brenda Fritz,Cancelled,2025-09-22
+311,Gregory Moreno,61,Male,Indian,2942402,Dubai Marina,Villa,5,398048,4521143,Referral,Colleen Rogers,Sold,2025-01-16
+312,William Olson,36,Female,British,4976724,Business Bay,Townhouse,2,588973,1221930,Website,Mallory Lee,Cancelled,2025-09-18
+313,Jared Atkinson,61,Male,Egyptian,2694546,Palm Jumeirah,Apartment,4,5993972,5286172,Referral,Rebecca Christensen,Sold,2025-08-12
+314,Kenneth Johnson,37,Male,Russian,2133447,Dubai Hills,Penthouse,5,779684,4451365,Referral,Victoria Barnes,Sold,2025-05-06
+315,Ashley Allen,63,Female,Saudi,4014101,Dubai Marina,Townhouse,4,4716505,1987928,Website,Scott Neal,Pending,2025-12-19
+316,Jesse Bentley,31,Male,Pakistani,3566057,Dubai Hills,Penthouse,3,1477335,1660149,Website,David Rodriguez,Cancelled,2025-08-16
+317,Tara Clark,24,Male,Emirati,3282796,Business Bay,Villa,3,562184,5077728,Referral,Vickie Sanchez,Sold,2025-09-26
+318,Shannon Ramos,51,Male,British,878919,Dubai Marina,Villa,4,5628359,3953969,Instagram,Dennis Zavala,Sold,2026-05-15
+319,Christina Cook,28,Male,Egyptian,475334,Dubai Marina,Penthouse,3,2527905,1140088,Facebook,Katherine Woodard,Sold,2024-07-09
+320,Mario Vega,50,Female,British,2452456,Dubai Hills,Penthouse,5,863633,983098,Facebook,James Alexander,Sold,2024-08-08
+321,Melissa Lawson,43,Female,Indian,4816765,Jumeirah,Penthouse,4,5873509,3388217,Google,Laura Garner,Pending,2025-04-04
+322,Richard Barnes,49,Male,Indian,2510110,Palm Jumeirah,Apartment,2,1167450,4952826,Google,Stephen Lopez,Cancelled,2026-05-05
+323,Tammy Floyd,26,Female,Pakistani,724178,Dubai Hills,Apartment,6,5614035,3775865,Referral,Lisa Stuart,Pending,2025-02-19
+324,Scott Chambers,42,Male,Egyptian,815314,Dubai Hills,Apartment,6,5495517,2849925,Website,Andrew Lowe,Pending,2024-10-12
+325,Kevin Burns,57,Male,Egyptian,3802463,Dubai Hills,Apartment,1,4907542,3950285,Referral,Lauren Walker,Sold,2024-06-25
+326,Jacqueline Williams,31,Female,Pakistani,386947,Downtown Dubai,Townhouse,6,5279642,3043417,Google,Rebekah Robinson,Sold,2025-12-09
+327,Austin Jackson,49,Male,Egyptian,3009784,Dubai Hills,Penthouse,3,5801369,4424434,Instagram,Jacob Moore,Cancelled,2025-01-25
+328,Maria Wood,48,Female,Pakistani,4257843,Dubai Hills,Townhouse,3,5891153,469090,Instagram,Benjamin Rice,Sold,2026-01-11
+329,Yvette Rodriguez,63,Male,Chinese,2561381,Dubai Hills,Apartment,4,1907934,1670238,Referral,Amy Rodriguez,Sold,2025-02-21
+330,Chad Cooper,23,Female,Chinese,688425,Palm Jumeirah,Apartment,4,3940256,2723149,Referral,Sue West,Sold,2025-12-31
+331,David Myers,33,Male,Emirati,999023,Dubai Hills,Townhouse,3,500608,1566507,Website,Mr. David Lewis,Sold,2026-01-28
+332,Colin Conner,58,Female,Russian,2714828,Downtown Dubai,Apartment,5,4828625,2465205,Facebook,Pedro Bolton,Sold,2025-12-07
+333,Leslie Wang,53,Female,Chinese,3914940,Downtown Dubai,Penthouse,6,4357916,4809941,Google,Donald Barker MD,Pending,2025-06-15
+334,Adam Garza,32,Female,Egyptian,1039848,Dubai Marina,Townhouse,2,1802851,5448589,Instagram,Kimberly Davis,Sold,2026-05-16
+335,Angela Shannon,46,Female,British,3245787,Jumeirah,Townhouse,5,5996546,3633701,Facebook,Deborah Pearson,Sold,2025-02-02
+336,Paul Wallace,27,Male,Saudi,2814878,Business Bay,Apartment,1,1091195,4471597,Facebook,Eric Carson,Pending,2025-11-28
+337,Michael Pena,35,Female,Indian,4559870,Jumeirah,Villa,5,4374109,4574147,Website,Sandra Wolfe,Sold,2026-05-06
+338,Diane Olsen,31,Male,Egyptian,4651867,Jumeirah,Townhouse,1,1665332,5482955,Facebook,Mark Cabrera Jr.,Cancelled,2026-05-20
+339,Mr. John Henson,53,Male,Egyptian,2645166,Business Bay,Apartment,1,371457,469927,Facebook,James Savage,Sold,2025-10-06
+340,Linda Hart,51,Female,British,1023482,Downtown Dubai,Apartment,2,4334093,2748904,Facebook,Barbara Adams,Cancelled,2026-02-26
+341,John Black MD,35,Male,Saudi,809386,Jumeirah,Villa,2,3382591,2931019,Website,Jeremy Ramos,Sold,2026-03-17
+342,Craig Walker,62,Female,Pakistani,813123,Palm Jumeirah,Apartment,6,4857771,2697357,Facebook,Michael Peters,Sold,2026-02-20
+343,David Tate,50,Female,Emirati,321501,Dubai Hills,Penthouse,4,396176,3855659,Instagram,Carlos Bryant,Sold,2026-01-29
+344,Elizabeth Little,36,Female,British,3825518,Dubai Marina,Penthouse,4,2331996,1179770,Instagram,Daniel Price,Sold,2025-06-30
+345,William Harvey,56,Female,Chinese,2570304,Palm Jumeirah,Villa,3,3897286,805434,Instagram,Ashley Carlson,Cancelled,2024-09-11
+346,Donna Bartlett,42,Male,Indian,2525449,Palm Jumeirah,Townhouse,5,1118500,2624867,Instagram,Fred Thomas,Sold,2025-02-14
+347,Louis Brady,34,Female,Egyptian,3033057,Palm Jumeirah,Villa,4,4027539,5191937,Referral,Jeanette Park,Sold,2025-08-03
+348,Valerie Jenkins,27,Female,Emirati,3060653,Downtown Dubai,Apartment,6,555310,1948410,Instagram,Brenda Mack,Cancelled,2026-02-10
+349,Edgar Johnson,32,Female,Egyptian,1676294,Dubai Marina,Apartment,6,3644118,4982146,Website,Miss Megan Kelley DVM,Sold,2024-10-27
+350,Julie Shepherd,30,Male,Emirati,3060786,Jumeirah,Apartment,4,2688328,4240055,Google,Kayla Brown,Pending,2025-05-01
+351,Gregory Brown,37,Female,British,4882813,Palm Jumeirah,Villa,4,1158113,4918666,Google,Rita Ortiz,Sold,2024-11-21
+352,Matthew Castro,34,Male,Chinese,1540552,Jumeirah,Townhouse,4,5515440,2498809,Google,Natalie Jones,Pending,2025-06-18
+353,Thomas Logan,33,Male,Emirati,4500546,Business Bay,Penthouse,1,2870488,586925,Instagram,Cole Graham,Sold,2026-01-11
+354,Teresa Houston,62,Female,Indian,2791727,Jumeirah,Penthouse,4,2714240,5298232,Website,Carol Carpenter,Sold,2025-08-17
+355,Jessica Thornton,40,Female,Saudi,786497,Dubai Hills,Penthouse,5,3552696,379984,Referral,David Combs,Cancelled,2026-05-03
+356,Joshua Contreras,33,Female,Saudi,3990000,Dubai Hills,Apartment,5,2379352,1531213,Referral,Veronica Mcintosh,Cancelled,2024-10-21
+357,Terry Dawson,38,Male,Egyptian,4224903,Downtown Dubai,Penthouse,6,5982932,4413882,Instagram,Jennifer Roach,Cancelled,2025-01-17
+358,Laura Patel,44,Female,Chinese,418893,Palm Jumeirah,Villa,5,2930389,5213319,Website,Brian Cain,Pending,2026-06-08
+359,Gregory Castillo,54,Male,Indian,348577,Palm Jumeirah,Apartment,3,3088194,1033853,Website,Emily Steele,Sold,2026-05-26
+360,Emily Wilkins,32,Male,Emirati,1475270,Downtown Dubai,Townhouse,2,4360825,2194303,Facebook,Matthew Chaney,Sold,2024-07-19
+361,Rhonda Edwards,38,Male,Russian,4275083,Palm Jumeirah,Townhouse,4,2965693,5383224,Facebook,Derek Mendoza,Sold,2025-10-17
+362,Barbara Horton,39,Male,Chinese,4302353,Business Bay,Apartment,3,2283674,4709675,Google,Jennifer Carter,Sold,2025-09-15
+363,John Fernandez DDS,28,Female,Indian,4092328,Jumeirah,Penthouse,1,370190,4108685,Facebook,Michael Mclaughlin,Sold,2024-10-16
+364,Sabrina Smith,29,Male,Saudi,926802,Downtown Dubai,Townhouse,2,3524051,3444426,Google,Larry Kline,Pending,2025-06-30
+365,David Dean PhD,48,Female,Chinese,470941,Downtown Dubai,Villa,3,3428805,2465872,Website,Antonio Welch,Sold,2026-02-11
+366,Joseph Reynolds,31,Female,Saudi,1125584,Dubai Hills,Apartment,1,2972788,1499387,Instagram,Amanda Cole,Pending,2026-03-15
+367,Amy Wilson,25,Female,Russian,4877520,Jumeirah,Villa,6,1494296,5425878,Facebook,Colton Dixon,Sold,2024-06-27
+368,Elijah Ward,35,Female,Chinese,1209890,Dubai Hills,Villa,6,4242067,3557607,Facebook,Janice Gallegos,Sold,2025-12-25
+369,Emily Ray,23,Male,Saudi,4855459,Dubai Hills,Townhouse,2,503016,2098217,Google,Adam Silva,Sold,2025-05-11
+370,John Carter,38,Male,Indian,630871,Jumeirah,Townhouse,5,3053556,5159762,Google,David Cherry,Pending,2025-03-15
+371,Robert Hughes,29,Female,Egyptian,3571634,Business Bay,Apartment,1,4650726,2000467,Google,Ian Black,Pending,2025-05-22
+372,Laurie Chandler,50,Male,British,4716790,Dubai Hills,Penthouse,4,3246382,3047978,Facebook,Melissa Jackson,Sold,2025-05-08
+373,Scott Lin,50,Male,Chinese,4593360,Dubai Marina,Penthouse,6,3111251,895152,Instagram,Mary Hanson,Pending,2024-12-15
+374,Adam Walker,55,Male,Indian,1461513,Business Bay,Townhouse,5,411271,2030232,Website,Jason Carr,Pending,2025-06-10
+375,Susan White,63,Female,Egyptian,3629230,Downtown Dubai,Townhouse,6,960413,5462017,Google,Veronica Powell,Sold,2024-08-26
+376,Amy Williams,53,Female,Emirati,1243626,Downtown Dubai,Townhouse,2,524654,2494361,Referral,Katherine Phillips,Sold,2024-09-07
+377,Melissa Ruiz,47,Female,Emirati,3076522,Jumeirah,Villa,6,2454808,3693975,Website,Angelica Jones,Sold,2026-05-11
+378,Tracy Anderson,25,Female,Russian,4304474,Dubai Marina,Villa,5,3961872,3185715,Referral,Brad Harris,Cancelled,2025-10-28
+379,Jared Dixon,51,Male,Indian,2734373,Dubai Hills,Penthouse,2,2380591,4476443,Facebook,Eric Castro,Sold,2025-05-09
+380,James Baker,29,Male,Saudi,587559,Palm Jumeirah,Penthouse,3,4934766,1418997,Google,Nancy Gates,Sold,2025-02-12
+381,Jose White,28,Male,Egyptian,4321284,Dubai Marina,Villa,6,3937852,2666168,Referral,Carlos Palmer,Sold,2026-06-11
+382,Jeremy Mccoy,46,Female,Russian,4735786,Business Bay,Apartment,1,690085,5265271,Website,Robert Gross,Sold,2024-10-18
+383,Bruce Lewis,31,Female,Saudi,4530176,Dubai Marina,Penthouse,2,5364793,2525174,Website,James Kirk,Pending,2026-02-14
+384,Daniel Briggs,28,Female,British,682385,Palm Jumeirah,Villa,2,5980773,1138456,Facebook,Tammy Baker,Sold,2025-11-24
+385,Kathleen Smith,24,Female,Egyptian,3286393,Downtown Dubai,Townhouse,2,5353195,2586286,Google,Michael Goodwin,Sold,2025-10-18
+386,Nicole Banks,22,Male,Chinese,1605601,Palm Jumeirah,Penthouse,4,2541044,1840174,Website,Jennifer Guzman,Sold,2025-05-12
+387,Tina Moreno,40,Male,Chinese,1202688,Palm Jumeirah,Penthouse,5,1906992,3526460,Website,Brandon Flores,Cancelled,2025-07-12
+388,Christina Weaver,40,Female,British,4885207,Jumeirah,Townhouse,2,1778102,305517,Instagram,Robert Brown,Sold,2025-12-14
+389,Pamela Knight,38,Female,Chinese,1121859,Dubai Marina,Penthouse,4,3635277,4659305,Instagram,George Sanchez,Cancelled,2025-04-15
+390,Curtis Russo,60,Male,Chinese,4734058,Dubai Marina,Townhouse,4,3442447,691751,Google,Anthony Adams,Sold,2025-05-09
+391,Regina Trevino,65,Female,Saudi,4626224,Dubai Hills,Penthouse,5,4309156,2360671,Referral,John Jenkins,Pending,2025-01-18
+392,Joshua Lewis,51,Male,Egyptian,1625957,Downtown Dubai,Penthouse,5,1761861,2194085,Website,Susan Hodges,Sold,2025-08-18
+393,Paul Kent,51,Female,British,509584,Business Bay,Villa,4,3216921,4295208,Website,Laura Jensen,Sold,2025-09-19
+394,Brenda Palmer,58,Male,Indian,4267467,Dubai Hills,Villa,6,2392844,1149796,Referral,Isabella Stephenson,Sold,2024-06-28
+395,Lisa Scott,53,Male,Egyptian,4922511,Downtown Dubai,Villa,2,1163912,4910217,Facebook,Shelley Lane,Cancelled,2025-08-13
+396,Dustin Dougherty,56,Female,Emirati,2747027,Business Bay,Townhouse,4,5619135,4910523,Facebook,Amy Ochoa,Sold,2025-06-21
+397,Valerie Nguyen,48,Female,British,3080963,Palm Jumeirah,Villa,5,4913215,2297068,Google,Robert Campbell,Sold,2024-11-10
+398,Ricky King,57,Male,Saudi,3822245,Business Bay,Apartment,4,4678302,1485702,Instagram,Nicole Burgess,Sold,2025-11-24
+399,Luis Hughes,39,Male,Indian,502309,Jumeirah,Villa,1,5215813,3297900,Facebook,Steven Anderson,Sold,2024-12-13
+400,Robert Walton,65,Female,Emirati,4037421,Jumeirah,Penthouse,6,3616338,2656200,Referral,Neil Frank,Sold,2025-06-02
+401,Kayla Baker,56,Male,Indian,4792572,Downtown Dubai,Townhouse,5,2172476,4556844,Referral,Michele Gonzalez,Cancelled,2025-07-22
+402,Philip Hanson,30,Female,Indian,2910661,Jumeirah,Townhouse,1,733670,3413249,Instagram,Morgan Smith,Sold,2024-10-09
+403,Virginia Henry,37,Female,British,1050972,Palm Jumeirah,Townhouse,3,918925,4117140,Referral,Brian Richardson,Sold,2025-02-04
+404,Jeffrey Mason,65,Male,Saudi,2841537,Dubai Hills,Penthouse,4,4307037,4979252,Referral,Jacob Walter,Cancelled,2025-11-26
+405,Crystal Richards,50,Male,Chinese,3150521,Jumeirah,Apartment,2,2634993,3289819,Instagram,Brian Gilbert,Cancelled,2025-04-14
+406,Michelle Case DDS,32,Male,Egyptian,854551,Jumeirah,Townhouse,5,3496595,4941135,Instagram,Pamela Gibson,Sold,2025-10-08
+407,Meredith Camacho MD,40,Male,Saudi,424990,Palm Jumeirah,Villa,5,5376013,2773288,Google,Jay Rodriguez,Sold,2025-12-04
+408,Sarah Brown,27,Female,Pakistani,2548587,Downtown Dubai,Penthouse,3,4212692,638488,Instagram,Angela Meyer,Sold,2024-08-03
+409,Mary Cook,48,Male,Indian,3310840,Business Bay,Villa,6,4036368,3595685,Website,Amanda Clark,Cancelled,2025-09-26
+410,Blake Stewart,47,Female,Russian,461225,Business Bay,Villa,2,3510847,2347354,Facebook,Shawn Phillips,Cancelled,2024-11-26
+411,Kim Williams,47,Female,Emirati,327961,Dubai Marina,Townhouse,6,5986585,5126660,Referral,Matthew Miller,Cancelled,2025-01-26
+412,Kathryn Lynch MD,44,Male,Saudi,4692759,Dubai Hills,Villa,3,1788617,2147093,Website,James Grant,Pending,2026-03-13
+413,Bernard Frederick,30,Male,British,2236621,Jumeirah,Townhouse,2,970003,3035783,Instagram,Christine Thomas,Sold,2024-08-19
+414,Donald Carpenter,47,Male,Egyptian,2116321,Downtown Dubai,Apartment,3,694795,402893,Google,Christopher Figueroa,Sold,2026-02-20
+415,Johnny Jones,37,Male,Pakistani,715317,Palm Jumeirah,Villa,5,3889721,2459725,Facebook,Scott Hill,Cancelled,2025-10-07
+416,Christopher Hensley,44,Male,Saudi,3801659,Business Bay,Villa,5,2922321,4462029,Referral,Cody Moore,Sold,2026-04-28
+417,Tracy Avila,41,Female,Emirati,1957588,Downtown Dubai,Apartment,4,1330620,1330352,Website,Brett King,Pending,2025-12-16
+418,Evan Powell,31,Male,Egyptian,748602,Jumeirah,Apartment,5,2925296,3239080,Referral,Amy Higgins,Sold,2024-07-08
+419,David Newman,53,Female,Chinese,1632818,Jumeirah,Apartment,4,2698315,3697356,Facebook,Corey Harris,Sold,2026-02-28
+420,Brett Brown,40,Female,Saudi,1039008,Downtown Dubai,Villa,4,1905347,2106438,Instagram,Kirk Levy,Sold,2024-10-16
+421,Claire Webb,58,Male,Russian,3777552,Dubai Hills,Villa,1,3722882,3716412,Referral,Alicia Hernandez,Pending,2024-07-15
+422,Rodney Smith,47,Female,Chinese,2813543,Jumeirah,Townhouse,1,5807039,1223929,Google,Rebecca Johnson,Cancelled,2024-09-01
+423,Timothy Franklin,31,Female,Chinese,3185608,Business Bay,Villa,6,3909678,4188548,Facebook,Crystal Lee,Sold,2026-05-24
+424,Monica Lewis,44,Female,Pakistani,3050218,Dubai Hills,Penthouse,5,4189265,4970205,Website,Mitchell Jones,Sold,2026-05-31
+425,Joshua Green,46,Female,Saudi,1064294,Palm Jumeirah,Penthouse,5,1332525,1622956,Website,James Holmes,Sold,2024-12-26
+426,Adam Edwards,49,Male,British,2809503,Jumeirah,Townhouse,5,3638089,1708348,Instagram,William Moss,Sold,2024-12-11
+427,William Phillips,61,Female,British,467683,Dubai Marina,Townhouse,4,704358,1808139,Facebook,Kelly Bryant,Cancelled,2025-02-13
+428,Jeffery Stanton,34,Male,Chinese,587242,Palm Jumeirah,Villa,5,3577120,2948690,Google,Brandy Krause,Sold,2024-10-12
+429,Dan Snyder,36,Female,Chinese,2952600,Palm Jumeirah,Penthouse,2,1702687,2369363,Website,Mr. Scott Nelson,Sold,2024-09-10
+430,Nicole Patton,55,Female,Russian,4717204,Jumeirah,Villa,6,3204675,5118738,Instagram,Phillip Pugh Jr.,Sold,2026-05-08
+431,Mathew Chapman,26,Female,Russian,3826374,Dubai Hills,Apartment,5,2385861,2424590,Referral,Madison Bates,Cancelled,2025-11-21
+432,Bradley Thomas,25,Female,Egyptian,3834693,Business Bay,Townhouse,3,772990,1271581,Website,Whitney Schultz,Sold,2025-09-29
+433,Elizabeth Lloyd,62,Female,Pakistani,3193508,Downtown Dubai,Penthouse,6,3977638,1259798,Website,Becky Johnson,Cancelled,2026-01-14
+434,Connie White,61,Female,Pakistani,987424,Jumeirah,Townhouse,6,4222281,2878407,Website,Mr. David Livingston,Sold,2025-02-24
+435,Justin Frazier,30,Male,British,3516649,Dubai Marina,Apartment,3,2403462,4452283,Facebook,Jay Reed,Sold,2025-01-30
+436,Joshua Butler,51,Female,Russian,341823,Dubai Marina,Villa,2,1132727,747824,Instagram,Katherine Brewer,Cancelled,2024-08-24
+437,Karen Phillips,46,Male,Russian,2716590,Palm Jumeirah,Penthouse,2,3869679,625932,Facebook,Kyle Hill,Sold,2024-12-15
+438,Anthony Cook,55,Female,Pakistani,3537765,Dubai Hills,Penthouse,2,434746,2491892,Website,Angela Curtis,Sold,2025-12-02
+439,Emma Hernandez,32,Female,Egyptian,811228,Jumeirah,Townhouse,6,5609845,5031856,Facebook,Andrew Phillips,Sold,2025-07-30
+440,Derek Miller,43,Female,Egyptian,934259,Dubai Hills,Townhouse,4,4382082,2272278,Referral,Cheryl Perry,Cancelled,2024-09-07
+441,Mr. Parker Wilcox,58,Female,Egyptian,4616608,Jumeirah,Townhouse,4,5147453,4434226,Facebook,Paul Rodriguez,Pending,2025-09-03
+442,Shaun Hardin,46,Female,Russian,766864,Business Bay,Penthouse,1,3163996,308837,Referral,Paul Griffin,Sold,2024-08-08
+443,Richard Liu,39,Male,Egyptian,4502843,Dubai Marina,Penthouse,2,2546344,5134343,Referral,Jason Rojas,Sold,2025-05-18
+444,Amber Jones DVM,27,Male,Pakistani,4104012,Palm Jumeirah,Villa,4,1864212,885291,Google,Angela Williams,Sold,2024-12-16
+445,Emily Davis,29,Female,Indian,3218301,Jumeirah,Apartment,5,3896294,1949590,Website,Andrea Spears,Cancelled,2025-12-25
+446,Michelle Obrien,56,Male,Saudi,1946441,Dubai Hills,Townhouse,1,4678009,2140824,Facebook,Peter Caldwell,Pending,2026-06-11
+447,Michelle Chandler,31,Female,Emirati,2589898,Dubai Hills,Villa,6,4483190,2379386,Instagram,Joshua Bright,Sold,2025-05-13
+448,Catherine Haas,38,Male,British,716709,Dubai Hills,Villa,6,3364452,1391043,Facebook,Benjamin Villanueva,Cancelled,2025-04-21
+449,Michael Cook,35,Female,British,3394771,Palm Jumeirah,Townhouse,2,748333,856569,Website,Blake King,Cancelled,2024-09-08
+450,Daniel Alvarez,28,Male,Chinese,1237707,Dubai Marina,Penthouse,1,5102573,2263703,Website,Ashley Carroll,Sold,2024-11-10
+451,Alexander Bell,49,Male,Saudi,2561472,Business Bay,Townhouse,4,879503,3229170,Instagram,Chris Mitchell,Sold,2024-08-15
+452,Miss Erin Savage,60,Male,British,2478984,Downtown Dubai,Villa,1,1391068,3131053,Instagram,Tara Williams,Pending,2025-08-11
+453,Michael Bryant,38,Male,Chinese,2310086,Dubai Hills,Penthouse,5,5773177,2956581,Website,Scott Reynolds,Sold,2024-11-29
+454,Brianna Robinson,53,Female,Pakistani,3796045,Business Bay,Penthouse,1,3681285,1562431,Facebook,Bradley Alvarez,Cancelled,2026-02-26
+455,Joseph Evans,30,Male,British,4917958,Jumeirah,Apartment,4,5417784,4527255,Instagram,Antonio Cain,Cancelled,2024-08-27
+456,Amanda Wong,29,Female,British,2169824,Business Bay,Villa,6,1532277,611573,Instagram,Brittney Barnett,Sold,2025-03-06
+457,Diane Pennington,39,Female,British,786518,Downtown Dubai,Villa,5,5271812,3934360,Facebook,Joseph Moreno,Pending,2024-09-27
+458,Jeremiah Harding,56,Female,Russian,1623735,Palm Jumeirah,Apartment,2,2975120,426284,Referral,Christopher Shannon,Sold,2024-11-25
+459,Adam Sparks,28,Female,Saudi,3573344,Business Bay,Apartment,2,5103636,1317860,Referral,Travis Smith,Sold,2026-05-19
+460,Kathryn Lang,41,Male,Russian,4553129,Palm Jumeirah,Townhouse,6,3633936,2983512,Google,Henry Lewis,Sold,2025-12-03
+461,Lawrence Gardner,54,Male,Emirati,3380344,Dubai Marina,Villa,1,5980056,1814429,Referral,Kyle Carter,Cancelled,2024-08-25
+462,Jack Lawrence,54,Female,Chinese,4746616,Palm Jumeirah,Apartment,2,530640,3185054,Referral,James Prince,Sold,2024-08-13
+463,Dr. Judith Hayes,65,Male,Russian,2843284,Dubai Hills,Villa,2,3656425,3373915,Website,Charles Mendez,Sold,2024-08-12
+464,Jeffrey Lara,56,Female,Chinese,1080073,Palm Jumeirah,Penthouse,2,4467726,813085,Facebook,Vincent Byrd,Cancelled,2024-11-09
+465,Robert Miller,25,Male,Pakistani,3265475,Dubai Hills,Penthouse,2,5276577,4605306,Instagram,Jeremy Villarreal,Sold,2025-01-28
+466,Ralph Gonzalez,39,Female,Indian,3906764,Downtown Dubai,Villa,2,2710831,1190720,Google,Alec Gomez,Pending,2024-09-10
+467,Angela Parsons,36,Female,Pakistani,1851368,Business Bay,Townhouse,6,2485283,3028996,Facebook,Marissa Gray,Sold,2024-12-19
+468,Patricia Kelley,54,Male,Indian,4537337,Dubai Marina,Apartment,3,3563761,5312904,Instagram,Susan Perez,Sold,2024-08-18
+469,James Kennedy,60,Male,Pakistani,4319880,Business Bay,Penthouse,1,5467354,1892178,Referral,Alan Mccarthy Jr.,Sold,2025-04-22
+470,John Walters,52,Female,Russian,3606196,Palm Jumeirah,Penthouse,5,4503139,5210571,Google,Jerry Hatfield,Cancelled,2024-12-20
+471,Lisa Peters,44,Male,British,3726279,Downtown Dubai,Villa,5,1718473,2558693,Google,Mr. Brett Martinez,Cancelled,2026-03-03
+472,Jeffrey White,45,Female,Saudi,4295927,Downtown Dubai,Townhouse,6,4095962,2138415,Referral,Michael Walker,Pending,2024-12-10
+473,Sherry Wright,23,Female,Indian,2216841,Dubai Marina,Penthouse,3,4522428,2109285,Google,Andrea Cruz,Cancelled,2025-02-20
+474,Matthew Williams,45,Female,Russian,4321711,Business Bay,Penthouse,6,2765441,1052214,Instagram,Kelli Benson MD,Cancelled,2026-05-27
+475,Cameron Perez,52,Male,Pakistani,2401158,Downtown Dubai,Villa,3,1307085,2331593,Facebook,David Gonzalez,Sold,2025-07-31
+476,Maria Ross,45,Male,Emirati,2747765,Dubai Hills,Townhouse,6,3856395,4690660,Google,Jesus Adams,Sold,2025-01-16
+477,Steven Sandoval,33,Female,Saudi,1226609,Dubai Hills,Penthouse,5,1257229,1807459,Google,Cory Butler,Sold,2025-03-30
+478,Bruce Smith,62,Female,Indian,3122509,Palm Jumeirah,Villa,5,2560232,5414821,Referral,Susan Duncan,Sold,2026-04-18
+479,Austin Sanchez,50,Female,Egyptian,4843009,Palm Jumeirah,Townhouse,1,4905869,2486060,Website,Juan Nguyen,Pending,2025-07-31
+480,Sara Sanchez MD,65,Female,Russian,386612,Dubai Marina,Apartment,3,5599552,4689007,Instagram,Alison Wang,Sold,2025-05-10
+481,Brian Johnson,24,Male,Egyptian,3739988,Palm Jumeirah,Townhouse,4,1665841,1380202,Google,Marcus Miller,Sold,2024-06-29
+482,Ryan Jensen,57,Female,Saudi,931316,Dubai Marina,Townhouse,3,4706821,3157900,Referral,Daniel Sparks,Pending,2025-11-28
+483,Kevin Obrien,44,Female,Emirati,4161744,Dubai Marina,Villa,5,3430811,3647555,Website,Corey Jacobson,Sold,2025-03-25
+484,Julie Barrett,58,Female,Emirati,3669400,Palm Jumeirah,Townhouse,6,2392059,2612085,Referral,Molly Williams,Pending,2025-03-26
+485,Miss Christina Burke,43,Female,Emirati,3126495,Dubai Hills,Apartment,6,4227173,4483501,Referral,Jennifer Alvarez,Sold,2025-12-17
+486,Lori Knight MD,48,Female,Emirati,3017062,Downtown Dubai,Apartment,2,5612071,4562204,Facebook,Christopher Arnold,Sold,2024-12-31
+487,Christopher Sanchez,48,Female,Emirati,670703,Palm Jumeirah,Apartment,4,2759562,2934209,Google,John Paul,Cancelled,2025-07-07
+488,Lauren Hernandez,29,Male,Emirati,3406552,Business Bay,Apartment,4,2763764,2689370,Website,Benjamin Burton,Sold,2024-12-19
+489,Melanie Wise,63,Female,Pakistani,1940120,Dubai Marina,Penthouse,2,1563179,4138993,Instagram,Jennifer Brady,Sold,2026-01-19
+490,Stephanie Garcia,59,Male,Pakistani,1399841,Business Bay,Penthouse,4,556130,4612549,Instagram,Luis Wilson,Pending,2025-12-06
+491,Amy Taylor,40,Female,Egyptian,4794550,Dubai Marina,Apartment,2,1359843,4868925,Instagram,James Jones,Sold,2025-05-14
+492,Lisa Cooper,33,Male,Egyptian,1813642,Downtown Dubai,Apartment,2,2959171,5162389,Facebook,Rick Bailey,Sold,2024-07-25
+493,Philip Lara,27,Male,Chinese,2758062,Jumeirah,Apartment,3,2944095,1387737,Instagram,Larry Powell,Sold,2025-02-26
+494,Samuel Sparks,25,Male,Saudi,4506637,Jumeirah,Villa,1,3421152,2234668,Google,Mary Gonzalez,Cancelled,2026-04-28
+495,Samuel Patterson,50,Female,Saudi,1649847,Palm Jumeirah,Penthouse,6,5837142,5357634,Instagram,Kristin Green,Sold,2024-10-07
+496,Jasmine Gibson,26,Female,Russian,1561571,Palm Jumeirah,Villa,4,2295371,4842204,Instagram,Craig Schultz,Sold,2025-07-13
+497,Amy Lowe,32,Male,Indian,4922683,Palm Jumeirah,Villa,6,2412279,2021508,Referral,Nicole Johnson,Sold,2025-08-20
+498,Julie Mays,30,Female,Indian,3214925,Business Bay,Apartment,6,553667,3167641,Google,Ryan Johnson,Sold,2026-01-25
+499,Allison Bishop,58,Male,Chinese,684878,Jumeirah,Villa,4,3131675,2542993,Website,Dylan Smith,Sold,2025-10-23
+500,Richard Goodwin,51,Female,British,2536386,Downtown Dubai,Villa,5,4612377,745895,Referral,Don Jones,Cancelled,2024-12-01
