@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+from pathlib import Path
 from openai import OpenAI
 
 # ==========================
@@ -10,38 +11,15 @@ from openai import OpenAI
 st.set_page_config(
     page_title="PropTech AI Intelligence Platform",
     page_icon="👑",
-    layout="wide"
+    layout="wide",
+    initial_sidebar_state="expanded"
 )
 
 # ==========================
-# VIP Custom Styling (Clean & Stable Customization)
+# Load External Premium Stylesheet
 # ==========================
-st.markdown("""
-<style>
-    .main-title {
-        font-size: 32px;
-        font-weight: bold;
-        color: #0f172a;
-        font-family: 'Segoe UI', Roboto, sans-serif;
-        margin-bottom: 5px;
-    }
-    .ai-container {
-        background: linear-gradient(135deg, #0f172a 0%, #1e3a8a 100%);
-        color: white;
-        padding: 25px;
-        border-radius: 15px;
-        box-shadow: 0px 4px 15px rgba(30, 58, 138, 0.15);
-        margin-bottom: 25px;
-    }
-    .guide-box {
-        background-color: #f1f5f9;
-        padding: 25px;
-        border-radius: 12px;
-        border-left: 5px solid #3b82f6;
-        margin-top: 30px;
-    }
-</style>
-""", unsafe_allow_html=True)
+with open(Path(__file__).parent / "styles.css") as css_file:
+    st.markdown(f"<style>{css_file.read()}</style>", unsafe_allow_html=True)
 
 # ==========================
 # Initialize OpenAI Client
