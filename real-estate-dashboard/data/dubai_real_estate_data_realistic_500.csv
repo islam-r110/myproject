@@ -1,0 +1,13 @@
+The file /real-estate-dashboard/real-estate-dashboard/data/dubai_real_estate_data_realistic_500.csv is intended to contain the dataset for the dashboard. Since you have not provided the actual data for this CSV file, I will create a placeholder CSV structure that reflects the expected columns based on the code you provided earlier. You can replace this placeholder data with the actual dataset later.
+
+id,area,nationality,lead_source,sale_status,purchase_date,sale_amount_aed,property_type,bedrooms,budget_aed,customer_age,agent_name
+1,Downtown Dubai,Indian,Website,Sold,2023-01-15,1500000,Apartment,2,1600000,30,Agent A
+2,Marina,Saudi,Referral,Sold,2023-02-20,2000000,Apartment,3,2100000,35,Agent B
+3,Palace Beach Residence,Emirati,Website,Sold,2023-03-10,3000000,Villa,4,3200000,40,Agent C
+4,Jumeirah Village Circle,Canadian,Social Media,Sold,2023-04-05,1200000,Townhouse,2,1300000,28,Agent D
+5,Arabian Ranches,British,Website,Sold,2023-05-15,2500000,Villa,5,2600000,45,Agent E
+6,Dubai Hills Estate,Chinese,Referral,Sold,2023-06-25,1800000,Apartment,3,1900000,32,Agent F
+7,The Palm Jumeirah,Indian,Website,Sold,2023-07-30,5000000,Villa,6,5200000,50,Agent G
+8,Deira,Emirati,Social Media,Sold,2023-08-10,800000,Apartment,1,850000,25,Agent H
+9,Al Barsha,Australian,Referral,Sold,2023-09-15,950000,Townhouse,2,1000000,29,Agent I
+10,Business Bay,American,Website,Sold,2023-10-01,2200000,Apartment,3,2300000,38,Agent J
